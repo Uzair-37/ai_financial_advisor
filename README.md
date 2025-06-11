@@ -97,4 +97,3 @@ This tool is for educational purposes. Always consult financial professionals fo
 
 ---
 
-**Built with ❤️ using Streamlit and Llama 4**
