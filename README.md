@@ -2,10 +2,6 @@
 
 Professional AI-powered financial analysis with free AI that explains market data in plain English.
 
-## 🚀 Live Demo
-
-**[Try it now on Streamlit Cloud →](https://your-app-url.streamlit.app)**
-
 ## ✨ Features
 
 ### 📈 Core Capabilities:
@@ -67,17 +63,6 @@ Unlike static financial tools, this app provides **intelligent, contextual expla
 - ✅ **Mobile-responsive** design
 - ✅ **Zero setup** - works instantly
 
-## 🚀 Quick Deploy
-
-1. Upload to GitHub (make repository public)
-2. Deploy on [share.streamlit.io](https://share.streamlit.io)
-3. Set main file: `streamlit_app.py`
-4. Your app goes live instantly!
-
 ## ⚠️ Disclaimer
 
 This tool is for educational purposes. Always consult financial professionals for investment decisions.
-
----
-
-**Built with ❤️ using Streamlit and Free AI**
